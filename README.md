@@ -6,10 +6,9 @@ I'm a Full Stack Software Engineer with a passion for always learning and teachi
 
 <img src="sus.png" height="200" align="right">
 
-- 💻 I’m currently working as a Site Reliability Engineer
+- 💻 I’m currently working with VHDL and PFGA
 - ☁️ I'm interested in Cloud Computing and Systems Design
 - 🛠️ I’m currently developing a Chrome extension 
-- 📖 I’m currently preparing to take the GMAT exam
 - 📝 I’m looking for help with Digital Marketing
 - 📂 I’m looking to contribute to open source software
 - ☕ Ask me about philosophy, debate, and coffee
