@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer with a passion for always learning and teachi
 
 <img src="sus.png" height="200" align="right">
 
-- 💻 I’m currently working with VHDL and PFGA
+- 💻 I’m currently working with RestAPI and AWS
 - ☁️ I'm interested in Cloud Computing and Systems Design
 - 🛠️ I’m currently developing a Chrome extension 
 - 📝 I’m looking for help with Digital Marketing
