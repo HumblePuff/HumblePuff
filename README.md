@@ -1,6 +1,6 @@
 ## Hello World! I'm Ricardo Rumi 👋
 
-I'm a Software Engineer with a passion for always learning and teaching others. I’m only satisfied with a job beyond expectations.
+My interests are Cloud, Cybersecurity and Competitive Programming.
 
 ## 📘 About Me
 
