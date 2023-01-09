@@ -1,6 +1,6 @@
 ## Hello World! I'm Ricardo Rumi 👋
 
-My interests are Cloud, Cybersecurity and Competitive Programming.
+My interests are Cloud, DevOps, SRE and Competitive Programming.
 
 ## 📘 About Me
 
